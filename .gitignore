@@ -1,6 +1,0 @@
-__pycache__/**
-.DS_Store
-.ipynb_checkpoints
-.ipynb_checkpoints/**
-original_modules/__pycache__/**
-.gitignore
